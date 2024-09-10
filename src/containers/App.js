@@ -47,3 +47,4 @@ export default App;
 {/* Line 8 in order to use 'this', use super() to call the constructor of Component */}
 {/* Line 9 "state" are the things that can change and affect the app, state usually lives in the parent component 'App.js' */}
 {/* Line 21 if the name in infos includes in the searchfield Filter the name that is true */}
+{/* Line 30 Using ternary operator if the lenght of user is empty, display loading if not return the cardlist */}
